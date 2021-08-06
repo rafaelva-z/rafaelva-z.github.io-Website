@@ -518,3 +518,11 @@ Transparent Background
 ============================================= */
 .TBlack {background: none repeat scroll 0 0 rgba(0,0,0,.8) !important;}
 .TWhite {background: none repeat scroll 0 0 rgba(255,255,255,.8) !important;}
+
+
+/*=================================================
+	RAFAEL VAZ MADE This
+	============================================= */
+
+	.ZoomIn {transition: transform .2s}
+	.ZoomIn:hover{transform: scale(1.1)}
